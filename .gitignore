@@ -1,0 +1,11 @@
+# java output directory
+/target/
+
+# intellij files
+/.idea/
+
+# vscode configuration
+/.vscode/
+
+# javadocs
+/javadocs/
